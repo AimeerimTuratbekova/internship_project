@@ -1,0 +1,8 @@
+{
+	"mongo_uri": "mongodb://localhost:27017",
+	"mongo_db": "sensor_data",
+	"mongo_collection": "readings",
+	"neo4j_uri": "bolt://localhost:7687",
+	"neo4j_user": "neo4j",
+	"neo4j_pass": "aimeerim1234"
+}

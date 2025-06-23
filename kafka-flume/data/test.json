@@ -1,0 +1,11 @@
+[
+  {"type": "tempSensor", "value": 23},
+  {"type": "pressureSensor", "value": 101.3},
+  {"type": "humiditySensor", "value": 50},
+  {"type": "tempSensor", "value": 15},
+  {"type": "pressureSensor", "value": 102.3},
+  {"type": "humiditySensor", "value": 12},
+  {"type": "tempSensor", "value": 23},
+  {"type": "tempSensor", "value": 101.3},
+  {"type": "humiditySensor", "value": 50}
+]
